@@ -1,0 +1,40 @@
+{
+  "admission": [
+    "The admission process involves an online application followed by an interview." ,
+    "All year long, admissions are available. For deadlines, visit our website."],
+  "library": [
+    "The library is open Monday to Friday from 8 AM to 10 PM." ,
+    "You can find digital resources on the library's website 24/7."],
+  "courses": [
+    "We offer a variety of undergraduate and postgraduate courses.",
+    "You can explore all available courses on our university website."
+  ],
+  "fees": [
+    "Tuition fees depend on the course you choose. Check the fees section on our website.",
+    "Scholarships are available for eligible students. Contact the finance office for details."
+  ],
+  "campus": [
+    "Our campus features modern facilities and beautiful green spaces.",
+    "You can take a virtual tour of the campus on our website."
+  ],
+  "events": [
+    "The university hosts career fairs and cultural events throughout the year.",
+    "Upcoming events are listed on the university calendar online."
+  ],
+  "hostel": [
+    "We have on-campus hostels with comfortable accommodation for students.",
+    "Hostel applications can be made after securing admission."
+  ],
+  "transport": [
+    "The university provides a free shuttle service for students.",
+    "Public transport routes to the campus are detailed on our website."
+  ],
+  "sports": [
+    "The university has excellent sports facilities, including a gym and swimming pool.",
+    "Join one of our many sports clubs to stay active and meet new friends!"
+  ],
+  "cafeteria": [
+    "The cafeteria offers a variety of meals, including vegetarian and vegan options.",
+    "It’s open from 7 AM to 9 PM on weekdays."
+  ]
+}

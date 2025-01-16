@@ -1,0 +1,32 @@
+2025-01-16 16:55:19,454 - USER: Chat session started
+2025-01-16 16:55:31,590 - USER: Chat session started
+2025-01-16 16:55:41,572 - USER: USER: admissions query
+2025-01-16 16:55:41,573 - USER: AGENT: To apply for admission to the University of Poppleton, please visit our admissions portal on the website. You will find all the information regarding deadlines, requirements, and the application process there.
+2025-01-16 16:59:35,362 - USER: Chat session started
+2025-01-16 16:59:44,318 - USER: USER: admissions
+2025-01-16 16:59:44,319 - USER: AGENT: ['The admission process involves an online application followed by an interview.', 'Admissions are open year-round. Visit our website for deadlines.']
+2025-01-16 17:19:02,423 - USER: Chat session started
+2025-01-16 17:19:20,708 - USER: Chat session started with agent: Hari
+2025-01-16 17:19:32,909 - USER: USER: admissions
+2025-01-16 17:19:32,911 - USER: AGENT: ['The admission process involves an online application followed by an interview.', 'Admissions are open year-round. Visit our website for deadlines.']
+2025-01-16 17:37:39,317 - USER: Chat session started
+2025-01-16 17:38:17,330 - USER: Chat session started with agent: Rabi
+2025-01-16 17:38:22,884 - USER: USER: admissions
+2025-01-16 17:38:22,884 - USER: AGENT: ['The admission process involves an online application followed by an interview.', 'All year long, admissions are available. For deadlines, visit our website.']
+2025-01-16 17:38:29,600 - USER: USER: yes
+2025-01-16 17:38:29,601 - USER: AGENT: I'm not sure about that, jeena, but I'll find out.
+2025-01-16 17:39:01,161 - USER: USER: library hours
+2025-01-16 17:39:01,162 - USER: AGENT: ['The library is open Monday to Friday from 8 AM to 10 PM.', "You can find digital resources on the library's website 24/7."]
+2025-01-16 17:41:43,322 - USER: Chat session started
+2025-01-16 17:41:51,117 - USER: Chat session started with agent: Hari
+2025-01-16 17:42:05,563 - USER: Chat session started
+2025-01-16 17:42:13,913 - USER: Chat session started with agent: Hari
+2025-01-16 17:42:21,305 - USER: USER: see you
+2025-01-16 17:42:33,499 - USER: Chat session started
+2025-01-16 17:42:38,290 - USER: Chat session started with agent: Shyam
+2025-01-16 17:42:42,986 - USER: USER: see you
+2025-01-16 17:42:42,987 - USER: Chat session ended
+2025-01-16 17:46:39,758 - USER: Chat session started
+2025-01-16 17:46:47,091 - USER: Chat session started with agent: Rabi
+2025-01-16 17:47:25,773 - USER: USER: when will library opens
+2025-01-16 17:47:25,774 - USER: AGENT: ['The library is open Monday to Friday from 8 AM to 10 PM.', "You can find digital resources on the library's website 24/7."]
